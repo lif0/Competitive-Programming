@@ -1,0 +1,9 @@
+src/.idea/
+src/.vs/
+*.log
+*.db
+**/obj/*
+**/bin/*
+*.DotSettings
+.idea/
+/src/.idea/*
