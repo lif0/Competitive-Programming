@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Greed-is-Good.fs" />
+    <Compile Include="4-By-4-Skyscrapers.fs" />
     <Compile Include="Sum-by-Factors.fs" />
     <Compile Include="The-Millionth-Fibonacci-Kata.fs" />
     <Compile Include="Program.fs" />

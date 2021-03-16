@@ -4,6 +4,7 @@
 module The_Millionth_Fibonacci_Kata = 
     open System
     open System.Numerics
+    open System.Collections.Generic
 
     let fibs = Dictionary<int,BigInteger>()
     do
