@@ -11,6 +11,10 @@
     <Compile Include="Sum-by-Factors.fs" />
     <Compile Include="The-Millionth-Fibonacci-Kata.fs" />
     <Compile Include="Program.fs" />
+    <None Include="Words to sentence.fsx" />
+    <None Include="Deodorant Evaporator.fsx" />
+    <None Include="All Inclusive.fsx" />
+    <None Include="Fibonacci.fsx" />
   </ItemGroup>
 
   <ItemGroup>
