@@ -15,6 +15,7 @@
     <None Include="Deodorant Evaporator.fsx" />
     <None Include="All Inclusive.fsx" />
     <None Include="Fibonacci.fsx" />
+    <None Include="Reducing by steps.fsx" />
   </ItemGroup>
 
   <ItemGroup>
