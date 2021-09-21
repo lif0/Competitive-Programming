@@ -1,5 +1,6 @@
 src/.idea/
 src/.vs/
+src/*/.vs/
 *.log
 *.db
 **/obj/*
@@ -7,3 +8,4 @@ src/.vs/
 *.DotSettings
 .idea/
 /src/.idea/*
+

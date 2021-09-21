@@ -6,16 +6,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Greed-is-Good.fs" />
-    <Compile Include="4-By-4-Skyscrapers.fs" />
-    <Compile Include="Sum-by-Factors.fs" />
-    <Compile Include="The-Millionth-Fibonacci-Kata.fs" />
-    <Compile Include="Program.fs" />
-    <None Include="Words to sentence.fsx" />
-    <None Include="Deodorant Evaporator.fsx" />
-    <None Include="All Inclusive.fsx" />
-    <None Include="Fibonacci.fsx" />
-    <None Include="Reducing by steps.fsx" />
+    <None Include="k-Primes.fsx" />
+    <None Include="7kyu\Last Survivor.fsx" />
+    <None Include="7kyu\Words to sentence.fsx" />
+    <None Include="7kyu\Deodorant Evaporator.fsx" />
+    <None Include="7kyu\All Inclusive.fsx" />
+    <None Include="7kyu\Fibonacci.fsx" />
+    <None Include="5kyu\RGB To Hex Conversion.fsx" />
+    <None Include="5kyu\Factorial decomposition.fsx" />
+    <None Include="5kyu\Greed-is-Good.fsx" />
+    <None Include="4kyu\Sum-by-Factors.fsx" />
+    <None Include="3kyu\The-Millionth-Fibonacci-Kata.fsx" />
+    <None Include="6kyu\Reducing by steps.fsx" />
   </ItemGroup>
 
   <ItemGroup>

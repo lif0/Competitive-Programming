@@ -8,7 +8,7 @@ let lcm a b = a * b / gcd a b
 let inline lcmu x y = lcm (abs(x)) (abs(y))
 let inline gcdi x y = gcd (abs(x)) (abs(y))
 
-let operArray fct arr init =
+let operArray (fct:int->int->int) (arr:int list) init =
     let rec loop (acc:int list) i  =
         if arr.Length = i then acc
         elif acc.Length > 0 then loop ([fct acc.[i-1] arr.[i]] |> List.append acc) (i+1)
